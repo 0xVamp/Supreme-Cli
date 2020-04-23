@@ -142,9 +142,6 @@ class Task {
         try {
             const resp = await request(opts);
             
-            
-            console.log(resp);
-            
             if (resp.status == "failed") {
                 for (const error in resp.errors) {
                     this.logger.fatal(`Checkout failed, reason : ${resp.errors[error]}`)
