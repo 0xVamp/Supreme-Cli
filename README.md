@@ -2,6 +2,12 @@
 
 Supreme-Cli is a 100% open source requests-based Supreme program
 
+
+## Requirements 
+
+*NodeJS/NPM
+*Git
+
 ## Installations
 
 To install files:
