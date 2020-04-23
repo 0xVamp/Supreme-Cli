@@ -6,8 +6,12 @@ Supreme-Cli is a 100% open source requests-based Supreme program
 
 To install files:
 
-> Git clone https://github.com/1fge/open-supreme.git
+> Git clone https://github.com/0xVamp/Supreme-Cli.git
 
-To Install Required Modules:
+To install required modules:
 
-> npm install
+> cd Supreme-Cli && npm install
+
+To start program
+
+>npm start
