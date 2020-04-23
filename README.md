@@ -5,7 +5,8 @@ Supreme-Cli is a 100% open source requests-based Supreme program
 
 ## Requirements 
 
-*NodeJS/NPM
+*NodeJS
+
 *Git
 
 ## Installations
